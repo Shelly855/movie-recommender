@@ -7,15 +7,15 @@ It supports **model saving/loading, accuracy evaluation, and visualisation**.
 ```
 /movie-recommender/
 │── data/
-│   ├── movie.csv
+│   ├── movie.csv  # Dataset
 │── notebooks/
 │   ├── model_prediction.ipynb
 │── models/
-│   ├── movie_recommender.joblib   Saved Decision Tree model
+│   ├── movie_recommender.joblib   # Saved Decision Tree model
 │── visualisations/
 │   ├── movie_recommender.dot  # Graphviz visualisation file
 │── README.md
-├── requirements.txt
+├── requirements.txt  # Dependencies for the project
 ```
 
 ## Features
@@ -23,7 +23,7 @@ It supports **model saving/loading, accuracy evaluation, and visualisation**.
 - Save & load model with `joblib`  
 - Evaluate model accuracy with `accuracy_score()`  
 - Visualise the decision tree
-- 
+
 ## How to Run
 ```bash
 git clone https://github.com/Shelly855/movie-recommender
