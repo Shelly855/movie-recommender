@@ -27,7 +27,7 @@ It supports **model saving/loading, accuracy evaluation, and visualisation**.
 ## How to Run
 ```bash
 git clone https://github.com/Shelly855/movie-recommender
-cd movie-recommender-python
+cd movie-recommender
 pip install -r requirements.txt
 jupyter notebook
 
