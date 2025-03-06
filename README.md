@@ -11,7 +11,7 @@ It supports **model saving/loading, accuracy evaluation, and visualisation**.
 │── notebooks/
 │   ├── model_prediction.ipynb
 │── models/
-│   ├── movie_recommender.joblib   # Saved Decision Tree model
+│   ├── movie_recommender.joblib  # Saved Decision Tree model
 │── visualisations/
 │   ├── movie_recommender.dot  # Graphviz visualisation file
 │── README.md
